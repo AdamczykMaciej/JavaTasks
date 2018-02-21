@@ -1,1 +1,1 @@
-![Screenshot](betweentwosets.png)
+![Alt text](Hackerrank/Implementation/Between Two Sets?raw=true "Between Two Sets")
