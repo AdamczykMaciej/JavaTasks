@@ -15,6 +15,12 @@ A single line of four space-separated integers denoting the respective values of
 Constraints:
 0<=x1<x2<10000
  */
+
+/**
+ * 
+ * @author Maciej Adamczyk
+ *
+ */
 public class Solution {
 
     static String kangaroo(int x1, int v1, int x2, int v2) {

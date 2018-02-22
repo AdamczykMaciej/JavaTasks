@@ -12,6 +12,12 @@ First line contains an integer N
 
 The next N lines contain a fraction each of the form ai/bi eg. 2/3, 4/5
  */
+
+/**
+ * 
+ * @author Maciej Adamczyk
+ *
+ */
 public class Solution {
     public static int egcd(int a, int b) {
     if (a == 0)

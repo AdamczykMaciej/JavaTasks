@@ -11,6 +11,12 @@ If the difference between the grade and the next higher multiple of 5 is less th
 If the grade is less than 38, don’t bother as it’s still a failing grade
 Automate the rounding process then round a list of grades and print the results.
  */
+
+/**
+ * 
+ * @author Maciej Adamczyk
+ *
+ */
 public class Solution {
 
     static int[] solve(int[] grades){

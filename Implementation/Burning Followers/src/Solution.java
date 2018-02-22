@@ -15,6 +15,12 @@ Input Format
 
 The first line contains a single integer n The second line contains n space-separated integers, each representing the change in followers for that day.
  */
+
+/**
+ * 
+ * @author Maciej Adamczyk
+ *
+ */
 public class Solution {
 
     public static void main(String[] args) {

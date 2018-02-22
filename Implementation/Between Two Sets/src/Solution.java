@@ -4,6 +4,11 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+/**
+ * 
+ * @author Maciej Adamczyk
+ *
+ */
 public class Solution {
 
     static int getTotalX(int[] a, int[] b) {

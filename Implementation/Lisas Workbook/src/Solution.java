@@ -13,6 +13,12 @@ Each new chapter starts on a new page, so a page will never contain problems fro
 The page number indexing starts at 1.
 Lisa believes a problem to be special if its index (within a chapter) is the same as the page number where it's located. Given the details for Lisa's workbook, can you count its number of special problems?
  */
+
+/**
+ * 
+ * @author Maciej Adamczyk
+ *
+ */
 public class Solution {
 
     static int workbook(int n, int k, int[] arr) {
